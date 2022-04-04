@@ -1,0 +1,14 @@
+C:\Users\qiyas\source\repos\Exceptions, Indexer\bin\Debug\netcoreapp3.1\Exceptions, Indexer.exe
+C:\Users\qiyas\source\repos\Exceptions, Indexer\bin\Debug\netcoreapp3.1\Exceptions, Indexer.deps.json
+C:\Users\qiyas\source\repos\Exceptions, Indexer\bin\Debug\netcoreapp3.1\Exceptions, Indexer.runtimeconfig.json
+C:\Users\qiyas\source\repos\Exceptions, Indexer\bin\Debug\netcoreapp3.1\Exceptions, Indexer.runtimeconfig.dev.json
+C:\Users\qiyas\source\repos\Exceptions, Indexer\bin\Debug\netcoreapp3.1\Exceptions, Indexer.dll
+C:\Users\qiyas\source\repos\Exceptions, Indexer\bin\Debug\netcoreapp3.1\Exceptions, Indexer.pdb
+C:\Users\qiyas\source\repos\Exceptions, Indexer\obj\Debug\netcoreapp3.1\Exceptions, Indexer.csproj.AssemblyReference.cache
+C:\Users\qiyas\source\repos\Exceptions, Indexer\obj\Debug\netcoreapp3.1\Exceptions, Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiyas\source\repos\Exceptions, Indexer\obj\Debug\netcoreapp3.1\Exceptions, Indexer.AssemblyInfoInputs.cache
+C:\Users\qiyas\source\repos\Exceptions, Indexer\obj\Debug\netcoreapp3.1\Exceptions, Indexer.AssemblyInfo.cs
+C:\Users\qiyas\source\repos\Exceptions, Indexer\obj\Debug\netcoreapp3.1\Exceptions, Indexer.csproj.CoreCompileInputs.cache
+C:\Users\qiyas\source\repos\Exceptions, Indexer\obj\Debug\netcoreapp3.1\Exceptions, Indexer.dll
+C:\Users\qiyas\source\repos\Exceptions, Indexer\obj\Debug\netcoreapp3.1\Exceptions, Indexer.pdb
+C:\Users\qiyas\source\repos\Exceptions, Indexer\obj\Debug\netcoreapp3.1\Exceptions, Indexer.genruntimeconfig.cache
